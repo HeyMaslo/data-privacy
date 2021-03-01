@@ -1,1 +1,10 @@
-# data-privacy
+# Maslo Privacy & Security Overview
+### Data Privacy
+Maslo Inc. is fully committed to protecting the privacy of user data. As such, all data collected will solely be used to improve the applications machine learning algorithms and artificial intelligence models, to personalize the user experience, to improve the service, to perform internal operation, and to conduct data analyses. Maslo will never make money selling user data and users will always own their data. Maslo will never reveal any personally identifiable information for advertising or other use-based data mining purposes other than improving health, or for the purpose of health research. Maslo will not use or disclose to third parties users’ biometric information for the purpose of advertising or marketing in any way.
+
+### HIPAA Compliance
+Maslo adopts rigorous data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of users’ personal information, username, password, transaction information and data gained from the service and stored on Maslo’s systems. 
+Please note that the service is only intended for the use of individuals at least 13 years of age. No one under the age of 13 is authorized to access the service. Maslo will deny access to any individual which it learns is attempting to access the service, or who has accessed the service, who is under such age.
+
+### Cloud Platform
+Maslo’s algorithms and data storage are securely built on the Google Cloud Platform infrastructure. Google Cloud Platform supports the requirements of the Health Insurance Portability and Accountability Act (HIPAA) compliance. As such, Google Cloud Platform is able to maintain the privacy of any Personal Identifiable Information (PII) and Protected Health Information (PHI). Complying with HIPAA is a shared responsibility between Maslo and Google, following the standard “shared security model in the cloud”. As such, both Maslo and the Google Cloud Platform adopt best practices to ensure the safeguarding and confidentiality of users’ PII and PHI as per the requirements of HIPAA compliance.
